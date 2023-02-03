@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lem6969
-- 👀 I’m interested in Frontend web development and Backend ddevelopment
-- 💞️ I’m looking to collaborate on ...
+- 👀 Software engineer @100Devs 
 - 📫 How to reach me nickaldwin666@gmail.com
 
 <!---
