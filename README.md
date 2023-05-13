@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lem6969
-- 👀 Software engineer@100devs 
 - 📫 How to reach me nickaldwin666@gmail.com
 
 <!---
