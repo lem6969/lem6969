@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lem6969
-- 📫 How to reach me nickaldwin666@gmail.com
+
 
 <!---
 lem6969/lem6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
